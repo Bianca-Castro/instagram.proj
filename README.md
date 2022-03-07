@@ -1,1 +1,1 @@
-# instagtram.proj
+# instagram.proj
